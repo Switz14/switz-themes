@@ -5,7 +5,9 @@
 2. Locate the downloaded `.apk` and install it
 3. Shiggy Manager → New Install → Install
 4. ShiggyCord → Log In
-5. Settings → Themes → **+** → Import from clipboard: https://raw.githubusercontent.com/Switz14/themeproject/refs/heads/main/folder/dyslexiared.json
+5. Settings → Themes → **+** → Import from clipboard:
+    * https://github.com/Switz14/switz-themes/blob/main/Themes/opendyslexic.json
+    * https://github.com/Switz14/switz-themes/blob/main/Themes/interdisplay.json
 6. Apply the theme (it’ll change your colors, but if you don’t like that, we can revert it later)
 7. Settings → Fonts → **+** → Extract font from theme → Extract → Import
 8. Apply the font
