@@ -8,6 +8,7 @@
 5. Settings → Themes → **+** → Import from clipboard:
    * https://raw.githubusercontent.com/Switz14/switz-themes/refs/heads/main/Themes/opendyslexic.json
    * https://raw.githubusercontent.com/Switz14/switz-themes/refs/heads/main/Themes/interdisplay.json
+→ Install
 6. Apply the theme (it’ll change your colors, but if you don’t like that, we can revert it later)
 7. Settings → Fonts → **+** → Extract font from theme → Extract → Import
 8. Apply the font → Reload
