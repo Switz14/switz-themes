@@ -11,4 +11,4 @@
 8. Apply the font
 9. (optional) If you don’t want the custom colors: Settings → Themes → Deselect (tap the highlighted circle)
 ## Desktop
-I hate when people do this... but more coming soon! This repository and its instructions will be revised and amended in the future. Feel free to send me a friend request on Discord: `switz14`!
+I hate when people do this... but more coming soon! This repository and its instructions will be revised and amended in the future (I promise). Feel free to send me a friend request on Discord: `switz14`!
