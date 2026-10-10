@@ -10,7 +10,7 @@
    * https://raw.githubusercontent.com/Switz14/switz-themes/refs/heads/main/Themes/interdisplay.json
 6. Apply the theme (it’ll change your colors, but if you don’t like that, we can revert it later)
 7. Settings → Fonts → **+** → Extract font from theme → Extract → Import
-8. Apply the font
+8. Apply the font → Reload
 9. (optional) If you don’t want the custom colors: Settings → Themes → Deselect (tap the highlighted circle)
 ## Desktop
 I hate when people do this... but more coming soon! This repository and its instructions will be revised and amended in the future (I promise). Feel free to send me a friend request on Discord: `switz14`!
