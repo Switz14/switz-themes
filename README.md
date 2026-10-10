@@ -1,4 +1,4 @@
-# Dyslexia/Inter Typefaces For Discord
+# Dyslexia/Inter Typefaces for Discord
 ## Mobile
 1. Download Shiggy Manager from https://www.shiggycord.dev/
 ###### If you’re rooted, you already know what to do instead of steps 1–3, but if you don’t know what that means, ignore this.
