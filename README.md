@@ -1,3 +1,4 @@
+IMPORTANT! quick edit: remind me to include morphe patches in the instructions
 # Dyslexia/Inter Typefaces for Discord
 ## Mobile
 1. Download Shiggy Manager from https://www.shiggycord.dev/
