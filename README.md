@@ -1,4 +1,4 @@
-IMPORTANT! quick edit: remind me to include morphe patches in the instructions
+Update: I’ve discovered a new method for mobile Discord: [Venus Morphe Patches](https://github.com/VenusIsJaded/Venus-Patches). Instructions will be added soon! Also, don’t worry, I didn’t forget about desktop ;3.
 # Dyslexia/Inter Typefaces for Discord
 ## Mobile
 1. Download Shiggy Manager from https://www.shiggycord.dev/
