@@ -1,7 +1,12 @@
 Update: I’ve discovered a new method for mobile Discord: [Venus Morphe Patches](https://github.com/VenusIsJaded/Venus-Patches). Instructions will be added soon! Also, don’t worry—I didn’t forget about desktop ;3.
 # Dyslexia/Inter Typefaces for Discord
 ## Mobile
-1. Download Shiggy Manager from https://www.shiggycord.dev/
+### Venus Morphe Patches
+1. Download [Morphe](https://morphe.software/)
+2. Locate the downloaded `.apk` and install it
+work in progress
+### ShiggyCord
+1. Download [Shiggy Manager](https://www.shiggycord.dev/)
 ###### If you’re rooted, you already know what to do instead of steps 1–3, but if you don’t know what that means, ignore this.
 2. Locate the downloaded `.apk` and install it
 3. Shiggy Manager → New Install → Install
